@@ -1,0 +1,92 @@
+[
+    {
+        "model": "parkApp.Car",
+        "pk": 1,
+        "fields": {
+            "carNumber": "CAR_1",
+            "slotNumber": 1,
+            "status": "parked"
+        }
+    },
+    {
+        "model": "parkApp.Car",
+        "pk": 2,
+        "fields": {
+            "carNumber": "CAR_2",
+            "slotNumber": 2,
+            "status": "parked"
+        }
+    },
+    {
+        "model": "parkApp.Car",
+        "pk": 3,
+        "fields": {
+            "carNumber": "CAR_3",
+            "slotNumber": 3,
+            "status": "parked"
+        }
+    },
+    {
+        "model": "parkApp.Car",
+        "pk": 4,
+        "fields": {
+            "carNumber": "CAR_4",
+            "slotNumber": 4,
+            "status": "parked"
+        }
+    },
+    {
+        "model": "parkApp.Car",
+        "pk": 5,
+        "fields": {
+            "carNumber": "CAR_5",
+            "slotNumber": 5,
+            "status": "parked"
+        }
+    },
+    {
+        "model": "parkApp.Parking",
+        "pk": 1,
+        "fields": {
+            "slotNumber": 1,
+            "carNumber": 1,
+            "status": "full"
+        }
+    },
+    {
+        "model": "parkApp.Parking",
+        "pk": 2,
+        "fields": {
+            "slotNumber": 2,
+            "carNumber": 2,
+            "status": "full"
+        }
+    },
+    {
+        "model": "parkApp.Parking",
+        "pk": 3,
+        "fields": {
+            "slotNumber": 3,
+            "carNumber": 3,
+            "status": "full"
+        }
+    },
+    {
+        "model": "parkApp.Parking",
+        "pk": 4,
+        "fields": {
+            "slotNumber": 4,
+            "carNumber": 4,
+            "status": "full"
+        }
+    },
+    {
+        "model": "parkApp.Parking",
+        "pk": 5,
+        "fields": {
+            "slotNumber": 5,
+            "carNumber": 5,
+            "status": "full"
+        }
+    }
+]
